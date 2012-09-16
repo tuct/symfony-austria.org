@@ -1,0 +1,4 @@
+symfonyaustria_event_bundle_events:
+     resource: "@SymfonyAustriaEventBundle/Controller/"
+     type:      annotation
+     prefix:    /
