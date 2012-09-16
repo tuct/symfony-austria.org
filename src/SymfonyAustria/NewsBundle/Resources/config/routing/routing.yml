@@ -1,0 +1,4 @@
+symfonyaustria_news_bundle_news:
+    resource: "@SymfonyAustriaNewsBundle/Controller/"
+    type:       annotation
+    prefix:     /
