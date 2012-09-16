@@ -1,0 +1,237 @@
+{
+    "hash": "170c1215a310d25b4205e06b44b87253",
+    "packages": [
+        {
+            "package": "c33s/propel",
+            "version": 1
+        },
+        {
+            "package": "c33s/static-page-content-bundle",
+            "version": "v1.0.0"
+        },
+        {
+            "package": "c33s/symfony-standard",
+            "version": 2.1
+        },
+        {
+            "package": "composer/composer",
+            "version": "dev-master",
+            "alias-pretty-version": "1.0.x-dev",
+            "alias-version": "1.0.9999999.9999999-dev"
+        },
+        {
+            "package": "composer/composer",
+            "version": "dev-master",
+            "source-reference": "ab1c7fbb9b4e0db080f5b7156547ac02e53d152e",
+            "commit-date": "1347290302"
+        },
+        {
+            "package": "doctrine/common",
+            "version": "2.2.3"
+        },
+        {
+            "package": "doctrine/dbal",
+            "version": "2.2.2"
+        },
+        {
+            "package": "doctrine/doctrine-bundle",
+            "version": "dev-master",
+            "alias-pretty-version": "1.0.x-dev",
+            "alias-version": "1.0.9999999.9999999-dev"
+        },
+        {
+            "package": "doctrine/doctrine-bundle",
+            "version": "dev-master",
+            "source-reference": "d3c930599723c8343472a5791b0f5909a4111a73",
+            "commit-date": "1347289964"
+        },
+        {
+            "package": "doctrine/orm",
+            "version": "2.2.2"
+        },
+        {
+            "package": "igorw/composer-yaml",
+            "version": "dev-master",
+            "source-reference": "36e35e59ca79b5783da2429aed5ca8500b85dfdf",
+            "commit-date": "1336037438"
+        },
+        {
+            "package": "jms/aop-bundle",
+            "version": "1.0.0"
+        },
+        {
+            "package": "jms/cg",
+            "version": "1.0.0"
+        },
+        {
+            "package": "jms/di-extra-bundle",
+            "version": "1.0.1"
+        },
+        {
+            "package": "jms/metadata",
+            "version": "1.1.1"
+        },
+        {
+            "package": "jms/security-extra-bundle",
+            "version": "1.1.0"
+        },
+        {
+            "package": "justinrainbow/json-schema",
+            "version": "1.1.0"
+        },
+        {
+            "package": "kriswallsmith/assetic",
+            "version": "dev-master",
+            "alias-pretty-version": "1.1.x-dev",
+            "alias-version": "1.1.9999999.9999999-dev"
+        },
+        {
+            "package": "kriswallsmith/assetic",
+            "version": "dev-master",
+            "source-reference": "dfbb776288baf9319d1693195af2cb6e00729901",
+            "commit-date": "1347039484"
+        },
+        {
+            "package": "leafo/lessphp",
+            "version": "v0.3.8"
+        },
+        {
+            "package": "monolog/monolog",
+            "version": "dev-master",
+            "alias-pretty-version": "1.3.x-dev",
+            "alias-version": "1.3.9999999.9999999-dev"
+        },
+        {
+            "package": "monolog/monolog",
+            "version": "dev-master",
+            "source-reference": "e5bf7ba5d1df622b68d004b3c0277bc94286e1b7",
+            "commit-date": "1347105894"
+        },
+        {
+            "package": "phing/phing",
+            "version": "2.4.12"
+        },
+        {
+            "package": "propel/propel-bundle",
+            "version": "1.1.x-dev",
+            "source-reference": "ea7653d2c744285656d2ebcf44f18ddcdc0f39dd",
+            "commit-date": "1345831154"
+        },
+        {
+            "package": "propel/propel1",
+            "version": "dev-master",
+            "alias-pretty-version": "1.6.x-dev",
+            "alias-version": "1.6.9999999.9999999-dev"
+        },
+        {
+            "package": "propel/propel1",
+            "version": "dev-master",
+            "source-reference": "bfb8055fbcc430cc84d5d4cfbe35dd2a4c4745d1",
+            "commit-date": "1347274942"
+        },
+        {
+            "package": "seld/jsonlint",
+            "version": "1.0.0"
+        },
+        {
+            "package": "sensio/distribution-bundle",
+            "version": "dev-master",
+            "source-reference": "98921298951598e8707258cba2b6180b96faa91c",
+            "commit-date": "1347023757"
+        },
+        {
+            "package": "sensio/framework-extra-bundle",
+            "version": "dev-master",
+            "source-reference": "v2.1.0",
+            "commit-date": "1346234539"
+        },
+        {
+            "package": "sensio/generator-bundle",
+            "version": "dev-master",
+            "source-reference": "v2.1.0-RC2",
+            "commit-date": "1346138171"
+        },
+        {
+            "package": "swiftmailer/swiftmailer",
+            "version": "dev-master",
+            "alias-pretty-version": "4.2.x-dev",
+            "alias-version": "4.2.9999999.9999999-dev"
+        },
+        {
+            "package": "swiftmailer/swiftmailer",
+            "version": "dev-master",
+            "source-reference": "c97353b1ebffe25a224146f69d17efe24c093def",
+            "commit-date": "1347083952"
+        },
+        {
+            "package": "symfony/assetic-bundle",
+            "version": "dev-master",
+            "source-reference": "4e7e8a039fa19434f04558473adbb201118af942",
+            "commit-date": "1346199949"
+        },
+        {
+            "package": "symfony/monolog-bundle",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/monolog-bundle",
+            "version": "dev-master",
+            "source-reference": "b7318480e6f8bf5579d6b3cd856850302e7ba8d8",
+            "commit-date": "1347283885"
+        },
+        {
+            "package": "symfony/swiftmailer-bundle",
+            "version": "dev-master",
+            "source-reference": "d2eae9385c029cbac031a90e6d2abc74b889a562",
+            "commit-date": "1346243146"
+        },
+        {
+            "package": "symfony/symfony",
+            "version": "2.1.x-dev",
+            "source-reference": "597819eff13e2df3671cf3f838f9c1e2664b426e",
+            "commit-date": "1347286221"
+        },
+        {
+            "package": "symfony/symfony-standard",
+            "version": 2.1
+        },
+        {
+            "package": "twig/extensions",
+            "version": "dev-master",
+            "source-reference": "f904575642b1213db69b4a98f08397e722ba1cae",
+            "commit-date": "1346770278"
+        },
+        {
+            "package": "twig/twig",
+            "version": "dev-master",
+            "alias-pretty-version": "1.9.x-dev",
+            "alias-version": "1.9.9999999.9999999-dev"
+        },
+        {
+            "package": "twig/twig",
+            "version": "dev-master",
+            "source-reference": "68b8c4619c5bbe82bd345fe56070dec8c356610a",
+            "commit-date": "1347025342"
+        },
+        {
+            "package": "willdurand/propel-typehintable-behavior",
+            "version": "dev-master",
+            "source-reference": "1.0.3",
+            "commit-date": "1342361004"
+        },
+        {
+            "package": "yuicompressor/yuicompressor",
+            "version": "2.4.7"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "igorw/composer-yaml": 20
+    }
+}
