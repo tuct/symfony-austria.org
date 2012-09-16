@@ -1,0 +1,12 @@
+symfonyaustria_news_bundle:
+    resource: "@SymfonyAustriaNewsBundle/Resources/config/routing/routing.yml"
+    prefix:   /
+
+symfonyaustria_event_bundle:
+    resource: "@SymfonyAustriaEventBundle/Resources/config/routing/routing.yml"
+    prefix:   /
+
+# Internal routing configuration to handle ESI
+#_internal:
+#    resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
+#    prefix:   /_internal
