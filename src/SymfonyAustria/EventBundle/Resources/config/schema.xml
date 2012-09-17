@@ -2,10 +2,11 @@
 <database name="default" defaultIdMethod="native" package="src"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="http://xsd.propelorm.org/1.6/database.xsd">
-
+      <behavior name="query_cache" />
+      <behavior name="auto_add_pk" />
+      <behavior name="timestampable" />
 
 <table name="event">
-    <column name="id" type="INTEGER" required="true" autoIncrement="true" />
     <column name="date" type="DATE" required="true" />
     <column name="time" type="TIME" required="true"/>
     <column name="location" type="VARCHAR" required="true" />
@@ -14,7 +15,6 @@
 </table>
 
 <table name="talk">
-    <column name="id" type="INTEGER" required="true" autoIncrement="true" />
     <column name="topic" type="VARCHAR" required="false" />
     <column name="lecturer" type="VARCHAR" required="true" />
     <column name="summary" type="LONGVARCHAR" required="false" />
